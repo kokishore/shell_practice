@@ -22,5 +22,7 @@ then
        echo "MySQl installation is SUCCESS"
       else
        echo "Mysql installation is Failure"
+      fi
 else
  echo " MYSQL is  installed .... Nothing to do"
+fi
