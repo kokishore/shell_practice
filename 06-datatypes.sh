@@ -5,7 +5,7 @@ N2=200
 
 TIMESTAMP=$(date)
 
-echo " Script is executed at :$TIMESTAMP
+echo " Script is executed at :$TIMESTAMP "
 
 ADD=$(($N1+$N2))
 
